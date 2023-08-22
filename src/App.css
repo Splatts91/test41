@@ -1,0 +1,13 @@
+/* src/App.css */
+body {
+  margin: 0; /* Remove default body margin */
+  font-family: Arial, sans-serif; /* Change font if needed */
+  background: #9BD8E6; /* Set the background color for the entire page */
+}
+
+footer {
+  background: #276D8F;
+  color: #ffffff;
+  text-align: center;
+  padding: 10px;
+}
